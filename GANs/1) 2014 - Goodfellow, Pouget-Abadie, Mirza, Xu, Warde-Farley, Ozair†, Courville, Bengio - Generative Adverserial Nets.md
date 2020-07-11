@@ -1,8 +1,9 @@
 https://arxiv.org/pdf/1406.2661.pdf
 
-My Annotations:
+My Annotations
+-------------------
+**Abstract**
 ```
-Abstract:
 - l6. minimax algorithm
     - https://www.youtube.com/watch?v=l-hh51ncgDI
 - l10. Markov chains
