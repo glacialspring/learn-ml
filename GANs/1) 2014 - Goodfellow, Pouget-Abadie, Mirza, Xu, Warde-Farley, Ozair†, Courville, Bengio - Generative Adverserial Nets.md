@@ -8,7 +8,7 @@ My Annotations
     - https://www.youtube.com/watch?v=l-hh51ncgDI
 - l10. Markov chains
     - https://www.youtube.com/watch?v=63HHmjlh794
-- l10. unrolled approximate inference networks
+- l10. unrolled approximate inference networks (Bayesian networks)
     - https://www.youtube.com/watch?v=HZGCoVF3YvM
     - https://www.youtube.com/watch?v=evQUrkXNAPg
     - https://www.youtube.com/watch?v=TuGDMj43ehw
